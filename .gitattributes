@@ -1,0 +1,6 @@
+.rar filter=lfs diff=lfs merge=lfs -text
+
+.php text
+.json text
+.html text
+.htaccess text
